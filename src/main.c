@@ -1,6 +1,5 @@
 #include <other.h>
 
-
 int main()
 {
     int a = 1;
